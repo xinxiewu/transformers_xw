@@ -1,2 +1,1 @@
-# transformers_xw
-Repo for Transformers
+# Transformer Implementation by XW
